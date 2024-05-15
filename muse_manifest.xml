@@ -1,0 +1,219 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1442912533883" domain="www.com">
+  <folder name="css">
+    <file name="site_global.css" crc="245053110"/>
+    <file name="master_a-master.css" crc="84361143" ref="contact-us:sample-blog-page:services:index:about:projects:blog"/>
+    <file name="contact-us.css" crc="107049257" ref="contact-us"/>
+    <file name="sample-blog-page.css" crc="93460636" ref="sample-blog-page"/>
+    <file name="iefonts_sample-blog-page.css" crc="4072245860" ref="sample-blog-page"/>
+    <file name="services.css" crc="416553802" ref="services"/>
+    <file name="index.css" crc="3791476291" ref="index"/>
+    <file name="iefonts_index.css" crc="14643891" ref="index"/>
+    <file name="about.css" crc="355707955" ref="about"/>
+    <file name="iefonts_about.css" crc="346162449" ref="about"/>
+    <file name="projects.css" crc="296920184" ref="projects"/>
+    <file name="blog.css" crc="407258362" ref="blog"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontawesome-webfont.woff" crc="46680941"/>
+    <file name="fontawesome-webfont.eot" crc="120927976"/>
+    <file name="fontawesome-webfont.svg" crc="486128287"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>projects:phone>services:phone>about:phone>blog:phone>contact-us:phone>sample-blog-page:tablet>index:tablet>projects:tablet>services:tablet>about:tablet>blog:tablet>contact-us:tablet>sample-blog-page:index:projects:services:about:blog:contact-us:sample-blog-page"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:phone>projects:phone>services:phone>about:phone>blog:phone>contact-us:phone>sample-blog-page:tablet>index:tablet>projects:tablet>services:tablet>about:tablet>blog:tablet>contact-us:tablet>sample-blog-page:index:projects:services:about:blog:contact-us:sample-blog-page"/>
+    <file name="webpro.js" crc="3883484123" ref="phone>index:phone>projects:phone>services:phone>about:phone>blog:phone>contact-us:phone>sample-blog-page:tablet>index:tablet>projects:tablet>contact-us:index:projects:contact-us"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="phone>index:phone>projects:tablet>index:tablet>projects:index:projects"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="phone>index:phone>projects:tablet>index:tablet>projects:index:projects"/>
+    <file name="touchswipe.js" crc="4218319045" ref="phone>index:phone>projects:tablet>index:tablet>projects:index:projects"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>projects:phone>services:phone>about:phone>blog:phone>contact-us:phone>sample-blog-page:tablet>index:tablet>projects:tablet>services:tablet>about:tablet>blog:tablet>contact-us:tablet>sample-blog-page:index:projects:services:about:blog:contact-us:sample-blog-page"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="phone>index:phone>projects:phone>services:phone>about:phone>blog:phone>contact-us:phone>sample-blog-page:tablet>index:tablet>projects:tablet>services:tablet>about:tablet>blog:tablet>contact-us:tablet>sample-blog-page:index:projects:services:about:blog:contact-us:sample-blog-page"/>
+    <file name="musewpdisclosure.js" crc="404074387" ref="phone>index:phone>projects:phone>services:phone>about:phone>blog:phone>contact-us:phone>sample-blog-page"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>projects:tablet>index:tablet>projects:index:projects:about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:phone>about:tablet>index:tablet>about:index:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>projects:phone>services:phone>about:phone>blog:phone>contact-us:phone>sample-blog-page:tablet>index:tablet>projects:tablet>services:tablet>about:tablet>blog:tablet>contact-us:tablet>sample-blog-page:index:projects:services:about:blog:contact-us:sample-blog-page"/>
+    <file name="form_check.php" crc="3932029206" ref="phone>contact-us:tablet>contact-us:contact-us"/>
+    <file name="form_throttle.php" crc="314685628" ref="phone>contact-us:tablet>contact-us:contact-us"/>
+    <file name="form_process.php" crc="401030677" ref="phone>contact-us:tablet>contact-us:contact-us"/>
+    <file name="form-u13158.php" crc="144066110" ref="phone>contact-us"/>
+    <file name="museredirect.js" crc="3899419633" ref="tablet>index:tablet>projects:tablet>services:tablet>about:tablet>blog:tablet>contact-us:tablet>sample-blog-page:index:projects:services:about:blog:contact-us:sample-blog-page"/>
+    <file name="form-u12299.php" crc="518350283" ref="tablet>contact-us"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:projects:services:about:blog:contact-us:sample-blog-page"/>
+    <file name="form-u11339.php" crc="450780963" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>projects:tablet>index:tablet>projects:index:projects"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:phone>projects:tablet>index:tablet>projects:index:projects"/>
+    <file name="shadow2.png" crc="10770668" ref="phone>index:tablet>index:index"/>
+    <file name="menu icon.png" crc="3980471222" ref="phone>index"/>
+    <file name="close icon.png" crc="277449063" ref="phone>index"/>
+    <file name="client.png" crc="367269507" ref="phone>index:phone>about:tablet>index:tablet>about:index:about" seo="true"/>
+    <file name="u13168-17.png" crc="461722635" ref="phone>contact-us"/>
+    <file name="u13168-17-r.png" crc="144441204" ref="phone>contact-us"/>
+    <file name="u13168-17-m.png" crc="144441204" ref="phone>contact-us"/>
+    <file name="u13168-17-fs.png" crc="106372838" ref="phone>contact-us"/>
+    <file name="c-02.png" crc="4240061745" ref="tablet>projects:tablet>services:tablet>about:tablet>blog:tablet>contact-us:tablet>sample-blog-page:projects:services:about:blog:contact-us:sample-blog-page" seo="true"/>
+    <file name="u12305-17.png" crc="461722635" ref="tablet>contact-us"/>
+    <file name="u12305-17-r.png" crc="144441204" ref="tablet>contact-us"/>
+    <file name="u12305-17-m.png" crc="144441204" ref="tablet>contact-us"/>
+    <file name="u12305-17-fs.png" crc="106372838" ref="tablet>contact-us"/>
+    <file name="move up.png" crc="3980696277" ref="index:projects:services:about:blog:contact-us:sample-blog-page"/>
+    <file name="u11340-17.png" crc="461722635" ref="contact-us"/>
+    <file name="u11340-17-r.png" crc="144441204" ref="contact-us"/>
+    <file name="u11340-17-m.png" crc="144441204" ref="contact-us"/>
+    <file name="u11340-17-fs.png" crc="106372838" ref="contact-us"/>
+    <file name="s1.jpg" crc="4219953162" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="s2.jpg" crc="3843721438" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="s3.jpg" crc="4024579767" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="g1341x214.jpg" crc="66450625" seo="true" ref="phone>index"/>
+    <file name="g1256x160.jpg" crc="452533751" seo="true" ref="phone>index"/>
+    <file name="g2256x172.jpg" crc="4245472832" seo="true" ref="phone>index"/>
+    <file name="g3256x171.jpg" crc="260686803" seo="true" ref="phone>index"/>
+    <file name="g4256x170.jpg" crc="284452441" seo="true" ref="phone>index"/>
+    <file name="g1-crop-u12573.jpg" crc="97338905" ref="phone>index"/>
+    <file name="g2-crop-u14456.jpg" crc="3866372988" ref="phone>index"/>
+    <file name="g3-crop-u14465.jpg" crc="3985852030" ref="phone>index"/>
+    <file name="g4-crop-u14474.jpg" crc="4184514707" ref="phone>index"/>
+    <file name="g7342x235.jpg" crc="3988186754" seo="true" ref="phone>index"/>
+    <file name="g5341x235.jpg" crc="153557018" seo="true" ref="phone>index"/>
+    <file name="t2-u13581-fr.jpg" crc="4063136664" ref="phone>index:tablet>index:index"/>
+    <file name="t1-u13586-fr.jpg" crc="4086466224" ref="phone>index:tablet>index:index"/>
+    <file name="g5254x174.jpg" crc="476988191" seo="true" ref="phone>projects"/>
+    <file name="g6254x174.jpg" crc="509498396" seo="true" ref="phone>projects"/>
+    <file name="g7254x174.jpg" crc="466270400" seo="true" ref="phone>projects"/>
+    <file name="g8253x175.jpg" crc="3849749458" seo="true" ref="phone>projects"/>
+    <file name="g9254x174.jpg" crc="3788965493" seo="true" ref="phone>projects"/>
+    <file name="g1-crop-u12644.jpg" crc="97338905" ref="phone>projects"/>
+    <file name="g2-crop-u14514.jpg" crc="3866372988" ref="phone>projects"/>
+    <file name="g3-crop-u14523.jpg" crc="3985852030" ref="phone>projects"/>
+    <file name="g4-crop-u14532.jpg" crc="4184514707" ref="phone>projects"/>
+    <file name="g5-crop-u14541.jpg" crc="3817945737" ref="phone>projects"/>
+    <file name="g6-crop-u14550.jpg" crc="4070905156" ref="phone>projects"/>
+    <file name="g7-crop-u14559.jpg" crc="38493417" ref="phone>projects"/>
+    <file name="g8-crop-u14568.jpg" crc="241879452" ref="phone>projects"/>
+    <file name="g9-crop-u14577.jpg" crc="269070936" ref="phone>projects"/>
+    <file name="g7344x237.jpg" crc="452647337" seo="true" ref="phone>services"/>
+    <file name="g4341x226.jpg" crc="335073609" seo="true" ref="phone>services"/>
+    <file name="g8341x235.jpg" crc="33881310" seo="true" ref="phone>services"/>
+    <file name="t1.jpg" crc="460473321" ref="phone>about:tablet>about:about"/>
+    <file name="facebook.png" crc="4172387648" ref="phone>about:tablet>about:about"/>
+    <file name="twitter.png" crc="4169863717" ref="phone>about:tablet>about:about"/>
+    <file name="google plus.png" crc="4275090887" ref="phone>about:tablet>about:about"/>
+    <file name="t2.jpg" crc="4286993323" ref="phone>about:tablet>about:about"/>
+    <file name="t3.jpg" crc="3982311269" ref="phone>about:tablet>about:about"/>
+    <file name="g7342x236.jpg" crc="4150508973" seo="true" ref="phone>blog"/>
+    <file name="g5-crop-u13110.jpg" crc="3860120176" ref="phone>blog"/>
+    <file name="g1349x219.jpg" crc="4197369789" seo="true" ref="phone>sample-blog-page"/>
+    <file name="g1-crop-u11586.jpg" crc="3880904576" ref="tablet>index"/>
+    <file name="g1.jpg" crc="374022097" seo="true" ref="tablet>index:tablet>projects:tablet>blog:index:projects:services:about:blog:sample-blog-page"/>
+    <file name="g4.jpg" crc="3930993187" seo="true" ref="tablet>index:tablet>projects:index:projects"/>
+    <file name="g2.jpg" crc="3794867034" seo="true" ref="tablet>index:tablet>projects:index:projects"/>
+    <file name="g3.jpg" crc="471631925" seo="true" ref="tablet>index:tablet>projects:index:projects"/>
+    <file name="g1-crop-u11620.jpg" crc="4023476965" ref="tablet>index"/>
+    <file name="g4-crop-u14269.jpg" crc="4064280917" ref="tablet>index"/>
+    <file name="g2-crop-u14278.jpg" crc="4080175953" ref="tablet>index"/>
+    <file name="g3-crop-u14287.jpg" crc="4052786763" ref="tablet>index"/>
+    <file name="g7371x255.jpg" crc="3849124033" seo="true" ref="tablet>index"/>
+    <file name="g5368x254.jpg" crc="274214465" seo="true" ref="tablet>index"/>
+    <file name="g5.jpg" crc="206597779" seo="true" ref="tablet>projects:projects"/>
+    <file name="g7.jpg" crc="4029710738" seo="true" ref="tablet>projects:projects"/>
+    <file name="g6.jpg" crc="243108607" seo="true" ref="tablet>projects:projects"/>
+    <file name="g8.jpg" crc="130883586" seo="true" ref="tablet>projects:projects"/>
+    <file name="g9.jpg" crc="4272325914" seo="true" ref="tablet>projects:projects"/>
+    <file name="g1-crop-u11827.jpg" crc="93349942" ref="tablet>projects"/>
+    <file name="g2269x180.jpg" crc="4144398959" seo="true" ref="tablet>projects"/>
+    <file name="g3271x180.jpg" crc="3955430989" seo="true" ref="tablet>projects"/>
+    <file name="g4273x180.jpg" crc="469556037" seo="true" ref="tablet>projects"/>
+    <file name="g5262x180.jpg" crc="4192191305" seo="true" ref="tablet>projects"/>
+    <file name="g7262x180.jpg" crc="253267343" seo="true" ref="tablet>projects"/>
+    <file name="g6262x180.jpg" crc="55234460" seo="true" ref="tablet>projects"/>
+    <file name="g8262x180.jpg" crc="4162421411" seo="true" ref="tablet>projects"/>
+    <file name="g9262x180.jpg" crc="3953650196" seo="true" ref="tablet>projects"/>
+    <file name="g1404x253.jpg" crc="4041847017" seo="true" ref="tablet>services"/>
+    <file name="g7363x250.jpg" crc="3820528451" seo="true" ref="tablet>services"/>
+    <file name="g4382x253.jpg" crc="3939655825" seo="true" ref="tablet>services"/>
+    <file name="g8367x253.jpg" crc="80180832" seo="true" ref="tablet>services"/>
+    <file name="g1-crop-u12070.jpg" crc="4262729823" ref="tablet>about"/>
+    <file name="g7-crop-u12237.jpg" crc="297884393" ref="tablet>blog"/>
+    <file name="g5-crop-u12239.jpg" crc="4036427844" ref="tablet>blog"/>
+    <file name="g8-crop-u13549.jpg" crc="4285265435" ref="tablet>blog"/>
+    <file name="g1-crop-u12376.jpg" crc="4180608262" ref="tablet>sample-blog-page"/>
+    <file name="g4-crop-u12379.jpg" crc="193301323" ref="tablet>sample-blog-page"/>
+    <file name="p1-u9614-fr.png" crc="4088977740" ref="index"/>
+    <file name="g1-crop-u9984.jpg" crc="75441538" ref="index"/>
+    <file name="g2348x233.jpg" crc="235844600" seo="true" ref="index"/>
+    <file name="g3350x233.jpg" crc="276494034" seo="true" ref="index"/>
+    <file name="g4353x233.jpg" crc="3935071340" seo="true" ref="index"/>
+    <file name="a1.jpg" crc="66179970" ref="index"/>
+    <file name="g7-crop-u10090.jpg" crc="469478820" ref="index"/>
+    <file name="g5-crop-u6899.jpg" crc="4192890590" ref="index"/>
+    <file name="g4409x270.jpg" crc="311363353" seo="true" ref="projects"/>
+    <file name="g5393x270.jpg" crc="441752164" seo="true" ref="projects"/>
+    <file name="g7393x270.jpg" crc="11289468" seo="true" ref="projects"/>
+    <file name="g1432x270.jpg" crc="4212353601" seo="true" ref="projects"/>
+    <file name="g2403x270.jpg" crc="4286259436" seo="true" ref="projects"/>
+    <file name="g3406x270.jpg" crc="3845129502" seo="true" ref="projects"/>
+    <file name="g6393x270.jpg" crc="3980393684" seo="true" ref="projects"/>
+    <file name="g8393x270.jpg" crc="345156761" seo="true" ref="projects"/>
+    <file name="g9393x270.jpg" crc="4200068618" seo="true" ref="projects"/>
+    <file name="g7-crop-u10793.jpg" crc="452099380" ref="services"/>
+    <file name="g4-crop-u10799.jpg" crc="224595935" ref="services"/>
+    <file name="g8-crop-u10796.jpg" crc="4154677166" ref="services"/>
+    <file name="s2-u12152-fr.png" crc="3879417693" ref="about"/>
+    <file name="g7-crop-u11256.jpg" crc="51048302" ref="blog"/>
+    <file name="g5-crop-u11287.jpg" crc="267485725" ref="blog"/>
+    <file name="g8-crop-u13459.jpg" crc="119745165" ref="blog"/>
+    <file name="g4-crop-u11470.jpg" crc="239004178" ref="sample-blog-page"/>
+    <file name="p1-crop-u11473.jpg" crc="3882291399" ref="sample-blog-page"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="152546972" ref="tablet>projects:tablet>services:tablet>about:tablet>blog:tablet>contact-us:tablet>sample-blog-page:tablet>index"/>
+      <file name="projects.css" crc="4253559363" ref="tablet>projects"/>
+      <file name="services.css" crc="4134215292" ref="tablet>services"/>
+      <file name="about.css" crc="4250406753" ref="tablet>about"/>
+      <file name="iefonts_about.css" crc="526031637" ref="tablet>about"/>
+      <file name="blog.css" crc="8470704" ref="tablet>blog"/>
+      <file name="contact-us.css" crc="4128984623" ref="tablet>contact-us"/>
+      <file name="sample-blog-page.css" crc="4292431745" ref="tablet>sample-blog-page"/>
+      <file name="iefonts_sample-blog-page.css" crc="498637107" ref="tablet>sample-blog-page"/>
+      <file name="index.css" crc="3850484202" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="3845807550" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4234702200" mt="1442911435429" redirect="true" seo="true"/>
+    <file name="projects.html" crc="68687097" mt="1442911526018" redirect="true" seo="true"/>
+    <file name="services.html" crc="183316819" mt="1442911615599" redirect="true" seo="true"/>
+    <file name="about.html" crc="439288011" mt="1442911659632" redirect="true" seo="true"/>
+    <file name="blog.html" crc="3920821639" mt="1442911735303" redirect="true" seo="true"/>
+    <file name="contact-us.html" crc="233009559" mt="1442889217531" redirect="true" seo="true"/>
+    <file name="sample-blog-page.html" crc="4110529760" mt="1442911771187" redirect="true" seo="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="200466580" ref="phone>sample-blog-page:phone>index:phone>projects:phone>services:phone>about:phone>blog:phone>contact-us"/>
+      <file name="sample-blog-page.css" crc="3985980588" ref="phone>sample-blog-page"/>
+      <file name="iefonts_sample-blog-page.css" crc="4177750609" ref="phone>sample-blog-page"/>
+      <file name="index.css" crc="3852750530" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="531267767" ref="phone>index"/>
+      <file name="projects.css" crc="476063653" ref="phone>projects"/>
+      <file name="services.css" crc="4018309650" ref="phone>services"/>
+      <file name="about.css" crc="3938371200" ref="phone>about"/>
+      <file name="iefonts_about.css" crc="3847561740" ref="phone>about"/>
+      <file name="blog.css" crc="345994897" ref="phone>blog"/>
+      <file name="contact-us.css" crc="359157638" ref="phone>contact-us"/>
+    </folder>
+    <file name="index.html" crc="395675950" mt="1442911947861" redirect="true" seo="true"/>
+    <file name="projects.html" crc="4142008138" mt="1442911986222" redirect="true" seo="true"/>
+    <file name="services.html" crc="3839557637" mt="1442912064571" redirect="true" seo="true"/>
+    <file name="about.html" crc="447834006" mt="1442912108856" redirect="true" seo="true"/>
+    <file name="blog.html" crc="3885054667" mt="1442912183243" redirect="true" seo="true"/>
+    <file name="contact-us.html" crc="497124822" mt="1442889527791" redirect="true" seo="true"/>
+    <file name="sample-blog-page.html" crc="138154876" mt="1442912207002" redirect="true" seo="true"/>
+  </folder>
+  <file name="index.html" crc="3951533025" mt="1442910756911" redirect="true" seo="true"/>
+  <file name="projects.html" crc="4289553327" mt="1442910800614" redirect="true" seo="true"/>
+  <file name="services.html" crc="4268710379" mt="1442910885954" redirect="true" seo="true"/>
+  <file name="about.html" crc="4048304093" mt="1442912226841" redirect="true" seo="true"/>
+  <file name="blog.html" crc="318464921" mt="1442911040899" redirect="true" seo="true"/>
+  <file name="contact-us.html" crc="227421552" mt="1442880251385" redirect="true" seo="true"/>
+  <file name="sample-blog-page.html" crc="4011610484" mt="1442911100913" redirect="true" seo="true"/>
+</manifest>
